@@ -1,6 +1,6 @@
 # Glazing of Balconies and Loggias Website
 
-Welcome to the Glazing of Balconies and Loggias project! This is a user-friendly and interactive website aimed at providing information about our glazing services, showcasing our work, and offering a special cost calculator to estimate the expenses. The project is written in CSS, HTML, and JavaScript to create an engaging and seamless user experience.
+Welcome to the Glazing of Balconies and Loggias project! This is an adaptive and user-friendly website aimed at providing information about our glazing services, showcasing our work, and offering a special cost calculator to estimate expenses. The project is written in CSS, HTML, and JavaScript, ensuring seamless user experiences across various devices and screen sizes.
 
 ![Section 1](https://github.com/bb2882/Source/assets/70382872/7ce9de6a-eb23-4254-be7a-c3962df9ca78)
 
@@ -44,6 +44,8 @@ The website comes with the following key features:
 6. **Map Integration:** A map is included to help potential customers find our location easily.
 
 7. **Cost Calculator:** A special calculator is available, allowing users to estimate the cost of glazing their balconies and loggias based on their preferences and requirements.
+
+8. **Adaptive Design:** Our website is fully responsive and adapts to different screen sizes and orientations, ensuring optimal user experiences on various devices. 
 
 ## Installation
 
