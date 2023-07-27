@@ -87,4 +87,4 @@ We will review your changes and merge them if they align with the project's goal
 
 ---
 
-Thank you for your interest in our project! If you have any questions or feedback, please feel free to contact us. Happy glazing!
+Thank you for your interest in our project! If you have any questions or feedback, please feel free to contact us. Happy glazing! 
